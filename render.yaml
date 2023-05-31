@@ -1,0 +1,83 @@
+services:
+
+  # A Docker web service
+
+  - type: web
+
+    name: SourcePleaseX
+
+    env: docker
+
+    region: Singapore
+
+    plan: free
+
+    envVars:
+
+      - key: API_ID
+
+        # value: Get this value from my.telegram.org
+
+        sync: false
+
+      - key: API_HASH
+
+        # value: Get this value from my.telegram.org
+
+        sync: false
+
+      - key: BOT_TOKEN
+
+        # value: Get this from @BotFather
+
+        sync: false
+
+      - key: MONGO_DB_URI
+
+        # value: Get this from cloud.mongodb.com
+
+        sync: false
+
+      - key: INDEX_ID
+
+        # value: ID of your Index Channel
+
+        sync: false
+
+      - key: UPLOADS_ID
+
+       # value: ID of your Uploads Channel
+       
+      - key: STATUS_ID
+
+        # value: ID of the message in your Uploads Channel where the status of bot will be showed
+
+        sync: false
+
+      - key: SCHEDULE_ID
+
+        # value: ID of the message in your Uploads Channel where the Live Schedule From Subsplease will be showed
+
+        sync: false
+
+      - key: CHANNEL_TITLE
+
+        # value: Name of your channel (This will appear in thumbnail of videos)
+
+        sync: false
+
+      - key: INDEX_USERNAME
+
+        # value: Username of your Index Channel
+
+        sync: false
+
+      - key: UPLOADS_USERNAME
+
+        # value: Username of your Uploads Channel
+
+        sync: false
+
+      - key: PORT
+
+        value: 8080
