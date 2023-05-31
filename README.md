@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/MaxZoneUpdate/SourcePleaseX"><img src="https://te.legra.ph/file/9a365462d71dbb0042c6e.jpg"></a></p> 
+<p align="center"><a href="https://github.com/69BridiTGX/SourcePleaseX"><img src="https://te.legra.ph/file/9a365462d71dbb0042c6e.jpg"></a></p> 
 
 <h1 align="center"><b>AutoAnimeBot</b></h1>
 <h2 align="center"><b>Automates The Process Of Managing Your Anime Channels</b></h4>
