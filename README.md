@@ -28,3 +28,6 @@
 * `CHANNEL_TITLE` - Name of your channel (This will appear in thumbnail of videos)
 * `INDEX_USERNAME` - Username of your Index Channel
 * `UPLOADS_USERNAME` - Username of your Uploads Channel
+
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
