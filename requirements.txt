@@ -11,3 +11,5 @@ uvloop
 motor
 dnspython
 opencv-python-headless
+flask==2.0.1
+gunicorn==21.0.0
